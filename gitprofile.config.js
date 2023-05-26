@@ -24,7 +24,7 @@ const config = {
     skype: '',
     telegram: '',
     website: '',
-    phone: 'Hi, I am Kim Jong Jip. I am a sophomore student at Sungkyunkwan University Department of Software.',
+    phone: 'Hi, I am Kim Jong Jip. I am a sophomore student\n at Sungkyunkwan University Department of Software.',
     email: 'jongjip@g.skku.edu',
   },
   resume: {
