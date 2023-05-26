@@ -38,21 +38,21 @@ const config = {
   ],
   experiences: [
     {
-      company: ' ',
-      position: ' ',
-      from: ' ',
-      to: ' ',
-      companyLink: ' ',
+      company: '-',
+      position: '-',
+      from: '-',
+      to: '-',
+      companyLink: '-',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: '-',
+      body: '-',
+      year: '-',
+      link: '-'
     },
-  ], */
+  ],
   education: [
     {
       institution: 'Sunkyunkwan University',
