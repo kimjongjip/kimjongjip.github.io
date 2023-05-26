@@ -37,7 +37,7 @@ const config = {
     'Java',
   ],
   experiences: [
-      
+    {.},
   ],
   /* certifications: [
     {
@@ -58,20 +58,7 @@ const config = {
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
+   
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
@@ -84,8 +71,7 @@ const config = {
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
-    id: '',
-    snippetVersion: 6,
+
   },
   themeConfig: {
     defaultTheme: 'winter',
