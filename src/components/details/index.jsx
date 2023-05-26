@@ -238,14 +238,7 @@ const Details = ({ profile, loading, social, github }) => {
                   link={`mailto:${social.email}`}
                 />
               )}
-              {social?.introduction && (
-                <ListItem
-                  icon={<RiPhoneFill />}
-                  title="Introduction:"
-                  value={social.introduction}
-                  
-                />
-              )}
+              
             </Fragment>
           )}
         </div>
