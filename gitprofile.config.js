@@ -37,7 +37,13 @@ const config = {
     'Java',
   ],
   experiences: [
-    {.},
+    {
+      company: ' ',
+      position: ' ',
+      from: ' ',
+      to: ' ',
+      companyLink: ' ',
+    },
   ],
   /* certifications: [
     {
