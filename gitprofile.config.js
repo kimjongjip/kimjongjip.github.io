@@ -39,8 +39,8 @@ const config = {
   experiences: [
     {
       company: '-',
-      position: '-',
-      from: '-',
+      position: ' ',
+      from: ' ',
       to: '-',
       companyLink: '-',
     },
