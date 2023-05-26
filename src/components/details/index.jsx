@@ -224,10 +224,10 @@ const Details = ({ profile, loading, social, github }) => {
 
               {social?.phone && (
                 <ListItem
-                  icon={<RiPhoneFill />}
-                  title="Phone:"
+                  icon={<AiFillGithub />}
+                  title="Introduction:"
                   value={social.phone}
-                  link={`tel:${social.phone}`}
+                  
                 />
               )}
               {social?.email && (
