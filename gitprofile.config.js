@@ -56,7 +56,7 @@ const config = {
   education: [
     {
       institution: 'Sunkyunkwan University',
-      degree: 'Attending',
+      degree: 'Attending Sophomore',
       from: '2020',
       to: '2025',
     },
